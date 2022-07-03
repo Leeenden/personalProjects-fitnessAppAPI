@@ -19,7 +19,7 @@ const Details = ({exerciseDetail}) => {
         },
         {
             icon: EquipmentImage,
-            name: bodyPart,
+            name: equipment,
         }
     ]
 
